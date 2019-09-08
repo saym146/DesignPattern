@@ -13,3 +13,16 @@
 /FactoryDesignPattern/Web.CustomerClient/bin
 /FactoryDesignPattern/Web.CustomerClient/obj
 /FactoryDesignPattern/.vs/FactoryDesignPattern
+/StrategyPattern/.vs/StrategyPattern
+/StrategyPattern/Factory/obj
+/StrategyPattern/Factory/bin/Debug/netstandard2.0
+/StrategyPattern/Model/obj
+/StrategyPattern/Model/bin/Debug/netstandard2.0
+/StrategyPattern/ModelContract/obj
+/StrategyPattern/ModelContract/bin/Debug/netstandard2.0
+/StrategyPattern/Model/CustomerModel.cs
+/StrategyPattern/packages
+/StrategyPattern/ValidationAlgorithms/obj
+/StrategyPattern/ValidationAlgorithms/bin/Debug/netstandard2.0
+/StrategyPattern/Web.CustomerClient/obj
+/StrategyPattern/Web.CustomerClient/bin
