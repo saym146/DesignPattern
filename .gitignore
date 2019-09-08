@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/FactoryDesignPattern/Factory/bin/Debug/netstandard2.0
+/FactoryDesignPattern/Factory/obj
+/FactoryDesignPattern/Model/bin/Debug/netstandard2.0
+/FactoryDesignPattern/Model/obj
+/FactoryDesignPattern/ModelContract/bin/Debug/netstandard2.0
+/FactoryDesignPattern/ModelContract/obj
+/FactoryDesignPattern/packages
+/FactoryDesignPattern/Web.CustomerClient/bin
+/FactoryDesignPattern/Web.CustomerClient/obj
