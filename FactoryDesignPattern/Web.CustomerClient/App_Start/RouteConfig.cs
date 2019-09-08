@@ -14,7 +14,7 @@ namespace Web.CustomerClient
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
-                name: "Default",
+                name: "Customer",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Customer", action = "Index", id = UrlParameter.Optional }
             );
